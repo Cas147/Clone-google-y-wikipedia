@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(229, 173, 117, 1);
+    background: rgba(229, 173, 117, 1);
+    margin: 0;
+    padding: 0;
+    font-family: ‘Montserrat’, sans-serif;
+    padding-left: 100px;
+    }
+/* id */
+#titulo{
+    color: crimson;
+    font-size: 40px;
+    margin-left: 30%;
+    font-style: unset;
+}
+
+#item1{
+    color: blue;
+    font-size: 30px;
+}
+
+#item2{
+    color: green;
+    font-size: 25px;
+    margin-left: 3%;
+}
+
+#item3{
+    color: green;
+    font-size: 25px;
+    margin-left: 4%;
+}
+
+/* class */
+.imagen{
+    height: 80px;
+    width: 20%;
+    border-style: solid;
+    border-width: 30%;
+    border-color: violet;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#textofooter{
+    color: red;
+    font-size: 30px;
+    font-style: oblique;
+}
